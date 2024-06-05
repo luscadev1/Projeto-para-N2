@@ -4,7 +4,7 @@ Este projeto que foi dado na faculdade para desenvolver um analisador de logs qu
 
 ## Descrição
 
-O código é organizado em uma classe chamada `LogAnalyzer`. As funções foram convertidas em métodos desta classe. Além disso, a função `analisar_logs` foi renomeada para `_analyze_logs` e é chamada no construtor da classe. Isso permite que os logs sejam analisados assim que uma instância da classe é criada. As funções que manipulam os logs agora são métodos que operam nos logs armazenados na instância da classe. Isso torna o código mais organizado e fácil de entender.
+O código é organizado em uma classe chamada `LogAnalyzer`. As funções foram convertidas em métodos desta classe. Além disso, a função `_analyze_logs` é chamada no construtor da classe. Isso permite que os logs sejam analisados assim que uma instância da classe é criada. As funções que manipulam os logs agora são métodos que operam nos logs armazenados na instância da classe. Isso torna o código mais organizado e fácil de entender.
 
 ## Funções
 
