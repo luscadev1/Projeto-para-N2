@@ -26,11 +26,11 @@ O código contém as seguintes funções:
 
 Primeiro, você precisa ter uma lista de arquivos de log para analisar. Em seguida, você pode criar uma instância da classe `LogAnalyzer` e chamar o método `main_menu` para ver os relatórios.
 
-# python
+```python
 if __name__ == "__main__":
     log_analyzer = LogAnalyzer(['server1__2024-05-01.txt', 'server1__2024-04-29.txt', 'server1__2024-04-30.txt'])
     log_analyzer.main_menu()
-
+```
 # Log Analyzer - EN Description
 
 This project is a log analyzer that provides several functionalities to better understand log data.
