@@ -1,6 +1,6 @@
 # Analisador de Logs
 
-Este projeto é um analisador de logs que fornece várias funcionalidades para entender melhor os dados de log.
+Este projeto que foi dado na faculdade para desenvolver um analisador de logs que fornece várias funcionalidades para entender melhor os dados de log apache, sem uso de bibliotecas como pandas.
 
 ## Descrição
 
